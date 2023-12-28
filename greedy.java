@@ -1,6 +1,6 @@
 package greedymethod;
 
-public class Knapsack01 {
+public class greedy {
 	
 	public static void EsyaSec(int esyasayisi, float[] agirlik, float[] deger, float kapasite) {
 		
