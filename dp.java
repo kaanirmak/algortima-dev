@@ -4,7 +4,7 @@ package dynamicprogramming;
  * @author Bengü Demireğen 220411791
  * @author Ahmet Karpuz 220411775
  */
-public class Knapsack01 {
+public class dp {
 /**
  * Tablomuzu oluşturduktan sonra hangi eşyanın seçileceğini belirlemek için while döngüsü kullandık. Burada eşya sayısının negatif olamayacağını ve belirli bir kapasite değerinin olacağını bildiğimiz için i>0 ve w>0 koşulunu yazmamız gereklidir.
  * <br /> <br />
